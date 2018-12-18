@@ -1,5 +1,5 @@
 {
-  "name": "changelly_api",
+  "name": "api-changelly",
   "version": "1.0.0",
   "description": "Changelly API Example",
   "main": "index.js",
